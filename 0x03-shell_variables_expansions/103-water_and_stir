@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(printf %o $(($((5#$(echo $WATER|bestschol)))))
+echo $(printf %o $(($((5#$(echo $WATER|
